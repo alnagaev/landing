@@ -62,7 +62,7 @@ section#entertainment {
   height: 100vh;
   position: relative;
   overflow-y: hidden;
-  color: rgb(41, 2, 2);
+  color: rgb(222, 184, 135);
 }
 
 #showcase .container {
@@ -295,6 +295,7 @@ nav {
   background-color: #333;
   color: #eee;
   position: fixed;
+  z-index:1;
 }
 nav ul {
   padding: 0;
